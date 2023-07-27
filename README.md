@@ -1,8 +1,9 @@
 # Weather App
 
 ## Overview
-
 The Weather App is a web application that allows users to check the weather forecast for a specific location. It fetches weather data from a weather API and displays relevant information to the user.
+
+![Weather App Preview ](./assets/Weather_3.png?raw=true " Weather App ")
 
 ## Features
 
@@ -10,13 +11,9 @@ The Weather App is a web application that allows users to check the weather fore
 - Display the temperature, weather description, humidity, and wind speed.
 - Support for searching weather by city name or ZIP code.
 
-## Demo
-
-Insert a link to a live demo of your project here (optional).
-
 ## Screenshots
 
-
+![Weather App Preview ](./assets/Weather_5.png?raw=true " Weather App ")
 
 ## Technologies Used
 
